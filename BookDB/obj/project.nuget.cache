@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CvVDGDYGg1M=",
+  "success": true,
+  "projectFilePath": "D:\\New folder\\BookDB\\BookDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bk950\\.nuget\\packages\\system.data.oledb\\10.0.12\\system.data.oledb.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
